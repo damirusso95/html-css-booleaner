@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+   
+}
+
+div{
+    background-color: rgb(190, 96, 55);
+    background-image: url(./img/pattern.png);
+    background-size: 30%;
+    background-repeat: repeat-x;
+    
+}
+
+img{
+    width: 50%;
+    height: 70%;
+}
+
+div{
+   width: auto;
+    height: 100px;
+}
+
