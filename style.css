@@ -16,9 +16,10 @@ body {
     
 }
 
+
 img{
-    width: 50%;
-    height: 70%;
+    margin-top: 40px;
+    height: 50px;
 }
 
 div{
@@ -51,6 +52,14 @@ h3{
 #tim-2{
     width: auto;
     height: auto;
+}
+
+figure{
+    margin: 20px 0;
+}
+
+figcaption{
+    font-size: 12px;
 }
 
 .sottolineato{
